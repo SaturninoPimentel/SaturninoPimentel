@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Saturnino 👋🏽
 
-<!--
-**SaturninoPimentel/SaturninoPimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 *Software Developer*
+- 🏅 *[Microsoft MVP (Developer Technologies)](https://mvp.microsoft.com/es-es/PublicProfile/5001658?fullName=Jos%C3%A9%20Saturnino%20%20)*
+- 🔭 I’m currently working on Azure, C# and Go
+- 🌱 I’m currently learning Go
+- 
+📫 You can reach me:
 
-Here are some ideas to get you started:
+[Twitter](https://twitter.com/SaturPimentel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/saturninopimentel/)
+
