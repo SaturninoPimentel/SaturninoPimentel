@@ -1,9 +1,9 @@
-## Hi, I'm Saturnino 👋🏽
+## Hi, I'm Saturnino Pimentel 👋🏽
 
-- 👨🏻‍💻 *Software Developer*
+- 👨🏻‍💻 *Sr. Software Engineer en MeLi*
 - 🏅 *[Microsoft MVP (Developer Technologies)](https://mvp.microsoft.com/es-es/PublicProfile/5001658?fullName=Jos%C3%A9%20Saturnino%20%20)*
-- 🔭 I’m currently working on Go, C# and Azure
-- 🌱 I’m currently learning Go, docker, kubernetes
+- 🔭 I’m currently working on Go, C# and AWS
+- 🌱 I’m currently learning Go, TypeScript, docker, AWS, terraform & kubernetes.
 
 📫 You can reach me:
 
